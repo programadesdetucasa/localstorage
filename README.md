@@ -10,6 +10,8 @@ Luego:
 
 ### `npm start` 🚀🚀
 
-## Realizar las tareas planteadas en el ejercicio 💪
+Listo, tenes tu proyecto corriendo. Ahora hay que realizar las tareas como indica la consigna 💪
 
-## Entregar el trabajo. 🎉🎉
+Una vez terminada la actividad debes entregarla por el canal de Slack 💻
+
+A seguir practicando! 🎉🎉
