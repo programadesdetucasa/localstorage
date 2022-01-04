@@ -2,10 +2,14 @@
 
 ## Pasos a seguir
 
-Una vez hecho el fork del proyecto
+Una vez hecho el fork del proyecto debes ejectuar el siguiente comando:
 
-### `npm install`
+### `npm install` ⚙️⚙️
 
 Luego:
 
-### `npm start`
+### `npm start` 🚀🚀
+
+## Realizar las tareas planteadas en el ejercicio 💪
+
+## Entregar el trabajo. 🎉🎉
